@@ -14,7 +14,7 @@ https://www.youtube.com/embed/nhjSveXiptY
 Raspberry Pi controls the servos via the PWM module and the driver by setting the pins on the H-bridge and providing PWM signal
   
   #### Schematic:
-   ![image_fffiELLAn5](https://user-images.githubusercontent.com/36682645/56653607-44f7f200-668e-11e9-8ed0-24498cd4f1eb.png)
+   ![image_VPzvSFuoSL](https://user-images.githubusercontent.com/36682645/56653784-bd5eb300-668e-11e9-8d4a-e126cba52a18.png)
     
    controller’s outputs are connected to the H-bridge, and the PWM signal is used to set the speed of the motors. 
    The RPi-pins are also connected to the H-bridge. 
